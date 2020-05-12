@@ -1,17 +1,14 @@
 ---
 layout: post
-title: "GPU computing with CUDA at Informatics and RadioElectronics Uniersity"
+title: "GPU computing with CUDA at Informatics and Radioelectronics University"
 tags:
 - Software Engineering
 - Trainings
 - CUDA
-thumbnail_path: blog/
+thumbnail_path: blog/2011-12-02-gpu-computing-with-cuda-informatics-and-radioelectronics-university-minsk-belarus/university_logo.jpg
 ---
 
-Applied Parallel Computing LLC delivered training on GPU computing with CUDA at Informatics and RadioElectronics Uniersity, Belarus.
+Applied Parallel Computing LLC delivered training on GPU computing with CUDA at Informatics and Radioelectronics University, Belarus.
 
-Nothing found related to this post in the assets\img\blog directory
+![alt text](\assets\img\blog\2011-12-02-gpu-computing-with-cuda-informatics-and-radioelectronics-university-minsk-belarus\university_logo.jpg "Logo Title Text 1")
 
-![alt text](\assets\img\blog\ "Logo Title Text 1")
-
-[Workshop program](\assets\img\blog\)
