@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GPU Workshop at the University of Munich"
+title: "GPU Workshop at the Technical University of Munich"
 tags:
   - Software Engineering
   - Trainings
@@ -8,7 +8,7 @@ tags:
 thumbnail_path: blog/2013-04-16-gpu-workshop-university-of-munich-germany/tum_logo.gif
 ---
 
-Applied Parallel Computing LLC delivered the GPU Workshop at University of Munich, Germany.
+Applied Parallel Computing LLC delivered the GPU Workshop at the Technical University of Munich, Germany.
 
 ![alt text](\assets\img\blog\2013-04-16-gpu-workshop-university-of-munich-germany\tum_logo.gif "Logo Title Text 1")
 

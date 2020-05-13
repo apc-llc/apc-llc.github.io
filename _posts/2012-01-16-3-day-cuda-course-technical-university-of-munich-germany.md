@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3-day CUDA course"
+title: "3-day CUDA course at the Technical University of Munich"
 tags:
   - Software Engineering
   - Trainings
@@ -8,7 +8,7 @@ tags:
 thumbnail_path: blog/2012-01-16-3-day-cuda-course-technical-university-of-munich-germany/tum_logo.gif
 ---
 
-Applied Parallel Computing LLC delivered the GPU Training Course at Technical University of Munich, Germany.
+Applied Parallel Computing LLC delivered the GPU Training Course at the Technical University of Munich, Germany.
 
 No image found.
 
