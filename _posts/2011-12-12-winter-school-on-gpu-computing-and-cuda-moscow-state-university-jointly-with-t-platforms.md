@@ -5,11 +5,9 @@ tags:
 - Software Engineering
 - Trainings
 - CUDA
-thumbnail_path: blog/
+thumbnail_path: blog/2011-12-12-winter-school-on-gpu-computing-and-cuda-moscow-state-university-jointly-with-t-platforms/msu_logo.png
 ---
 
 Applied Parallel Computing LLC delivered Winter School on GPU Computing and CUDA at Moscow State University, Moscow, Russia.
 
-Nothing found related to this post in the assets\img\blog directory
-
-![alt text](\assets\img\blog\ "Logo Title Text 1")
+![alt text](\assets\img\blog\2011-12-12-winter-school-on-gpu-computing-and-cuda-moscow-state-university-jointly-with-t-platforms\msu_logo.png "Logo Title Text 1")
