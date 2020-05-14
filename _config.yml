@@ -14,8 +14,8 @@ nav:
     rss: "/feed.xml"
 
 # Bio settings
-name: "Dmitry Mikushin"
-description: "The home page of Dmitry Mikushin, GPU&amp;HPC engineer, co-founder of Purple Gaze Inc."
+name: "Applied Parallel Computing LLC"
+description: "Applied Parallel Computing LLC | GPU/CUDA Training and Software Development"
 thumbnail_path: "profile-photos/apc_logo.png"
 purplegaze_url: "https://purplegaze.io/"
 apcllc_url: "https://parallel-computing.pro/"
