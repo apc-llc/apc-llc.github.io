@@ -6,8 +6,8 @@ tags:
 - Trainings
 - OpenACC
 dates:
-2015-10-26
-2015-10-27
+- 2015-10-26
+- 2015-10-27
 thumbnail_path: blog/2015-10-31-openacc-workshop-at-tu-dresden/WP_20151026_003.jpg
 ---
 
