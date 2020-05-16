@@ -7,13 +7,9 @@ tags:
   - CUDA
 dates:
 - 2012-06-18
-thumbnail_path: blog/
+thumbnail_path: blog/2012-06-18-4-day-cuda-and-openacc-course-for-financial-corporation-otkritie-moscow/client_logo.jpg
 ---
 
-Applied Parallel Computing LLC delivered 4-day OpenACC and CUDA  course at Financial Corporation Otkritie, Moscow, Russia.
+Applied Parallel Computing LLC delivered 4-day OpenACC and CUDA course at Financial Corporation Otkritie, Moscow, Russia.
 
-Nothing found related to this post in the assets\img\blog directory
-
-![alt text](\assets\img\blog\ "Logo Title Text 1")
-
-[Workshop program](\assets\img\blog\)
+![alt text](\assets\img\blog\2012-06-18-4-day-cuda-and-openacc-course-for-financial-corporation-otkritie-moscow\client_logo.jpg "Logo Title Text 1")
