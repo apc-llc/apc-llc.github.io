@@ -1,17 +1,14 @@
 ---
 layout: post
-title: "OpenACC and PGI Accelerator course"
+title: "OpenACC and PGI Accelerator course in Milan"
 tags:
 - Software Engineering
 - Trainings
 - CUDA
-thumbnail_path: blog/
+thumbnail_path: blog/2012-04-17-openacc-and-pgi-accelerator-course-milan-italy/client_logo.jpg
 ---
 
 Applied Parallel Computing LLC delivered OpenACC and PGI Accelerator course at Milan, Italy.
 
-Nothing found related to this post in the assets\img\blog directory
+![alt text](\assets\img\blog\2012-04-17-openacc-and-pgi-accelerator-course-milan-italy\client_logo.jpg "Logo Title Text 1")
 
-![alt text](\assets\img\blog\ "Logo Title Text 1")
-
-[Workshop program](\assets\img\blog\)
