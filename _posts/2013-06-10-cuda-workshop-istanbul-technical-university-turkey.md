@@ -7,12 +7,10 @@ tags:
 - CUDA
 dates:
 - 2013-06-10
-thumbnail_path: blog/
+thumbnail_path: blog/2013-06-10-cuda-workshop-istanbul-technical-university-turkey/university_logo.png
 
 ---
 
 Applied Parallel Computing LLC delivered CUDA Workshop at Istanbul Technical University, Turkey.
 
-Nothing found related to this post in the assets\img\blog directory
-
-![alt text](\assets\img\blog\"Logo Title Text 1")
+![alt text](\assets\img\blog\2013-06-10-cuda-workshop-istanbul-technical-university-turkey\university_logo.png "Logo Title Text 1")
