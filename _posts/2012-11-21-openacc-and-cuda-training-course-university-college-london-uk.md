@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenACC and CUDA training course"
+title: "OpenACC and CUDA training course at UCL"
 tags:
 - Software Engineering
 - Trainings
