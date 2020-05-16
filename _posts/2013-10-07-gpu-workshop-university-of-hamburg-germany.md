@@ -7,6 +7,7 @@ tags:
   - CUDA
 dates:
 - 2013-10-07
+- 2013-10-08
 thumbnail_path: blog/2013-10-07-gpu-workshop-university-of-hamburg-germany/university_logo.jpg
 ---
 

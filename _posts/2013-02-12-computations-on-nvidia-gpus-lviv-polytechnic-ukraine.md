@@ -7,6 +7,7 @@ tags:
   - CUDA
 dates:
 - 2013-02-12
+- 2013-02-13
 thumbnail_path: blog/2013-02-12-computations-on-nvidia-gpus-lviv-polytechnic-ukraine/lviv_polytech_logo.png
 ---
 

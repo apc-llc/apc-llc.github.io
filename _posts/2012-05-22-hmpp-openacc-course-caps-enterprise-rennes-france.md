@@ -5,6 +5,11 @@ tags:
 - Software Engineering
 - Trainings
 - CUDA
+dates:
+- 2012-05-22
+- 2012-05-23
+- 2012-05-24
+- 2012-05-25
 thumbnail_path: blog/2012-05-22-hmpp-openacc-course-caps-enterprise-rennes-france/client_logo.png
 ---
 

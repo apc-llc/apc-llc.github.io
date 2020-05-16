@@ -5,6 +5,8 @@ tags:
 - Software Engineering
 - Trainings
 - CUDA
+dates:
+- 2011-12-12
 thumbnail_path: blog/2011-12-12-winter-school-on-gpu-computing-and-cuda-moscow-state-university-jointly-with-t-platforms/msu_logo.png
 ---
 

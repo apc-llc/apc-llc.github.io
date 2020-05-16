@@ -7,6 +7,8 @@ tags:
   - CUDA
 dates:
 - 2012-01-16
+- 2012-01-17
+- 2012-01-18
 thumbnail_path: blog/2012-01-16-3-day-cuda-course-technical-university-of-munich-germany/tum_logo.gif
 ---
 

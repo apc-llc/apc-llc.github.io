@@ -7,6 +7,8 @@ tags:
   - CUDA
 dates:
 - 2012-02-01
+- 2012-02-02
+- 2012-02-03
 thumbnail_path: blog/2012-02-01-3-day-advanced-gpu-training-course-irish-supercomputing-center-dublin/ICHEC_Logo.png
 ---
 

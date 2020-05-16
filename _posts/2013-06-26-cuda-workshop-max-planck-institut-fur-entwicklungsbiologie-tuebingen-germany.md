@@ -7,6 +7,7 @@ tags:
 - CUDA
 dates:
 - 2013-06-26
+- 2013-06-27
 thumbnail_path: blog/2013-06-26-cuda-workshop-max-planck-institut-fur-entwicklungsbiologie-tuebingen-germany/university_logo.png
 ---
 

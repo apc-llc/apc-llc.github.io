@@ -5,6 +5,9 @@ tags:
 - Software Engineering
 - Trainings
 - CUDA
+dates:
+- 2012-06-07
+- 2012-06-08
 thumbnail_path: blog/2012-06-07-cuda-and-openacc-training-universidad-autonoma-de-madrid/university_logo.png
 ---
 

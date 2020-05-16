@@ -7,6 +7,10 @@ tags:
 - CUDA
 dates:
 - 2013-06-10
+- 2013-06-11
+- 2013-06-12
+- 2013-06-13
+- 2013-06-14
 thumbnail_path: blog/2013-06-10-cuda-workshop-istanbul-technical-university-turkey/university_logo.png
 
 ---

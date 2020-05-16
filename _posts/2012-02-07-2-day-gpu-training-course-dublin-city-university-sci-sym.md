@@ -7,6 +7,7 @@ tags:
   - CUDA
 dates:
 - 2012-02-07
+- 2012-02-08
 thumbnail_path: blog/2012-02-07-2-day-gpu-training-course-dublin-city-university-sci-sym/DCU_Three_Castles.png
 ---
 

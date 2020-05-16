@@ -7,6 +7,9 @@ tags:
 - CUDA
 dates:
 - 2011-09-12
+- 2011-09-13
+- 2011-09-14
+- 2011-09-15
 thumbnail_path: blog/2011-09-12-streaming-data-processing-and-programming-institute-of-computational-technologies-sb-ras/logo.png
 ---
 

@@ -5,6 +5,10 @@ tags:
 - Software Engineering
 - Trainings
 - CUDA
+dates:
+- 2012-04-11
+- 2012-04-12
+- 2012-04-13
 thumbnail_path: blog/2012-04-11-supercomputing-school-on-gpu-computing-and-cuda-institute-of-computational-mathematics-and-mathematical-geophysics-siberian-branch-of-russian-academy-of-science/client_logo.jpg
 ---
 

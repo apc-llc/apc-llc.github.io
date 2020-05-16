@@ -7,6 +7,8 @@ tags:
   - CUDA
 dates:
 - 2013-04-09
+- 2013-04-10
+- 2013-04-11
 thumbnail_path: blog/2013-04-09-gpu-workshop-university-of-st-petersburg-russia/university_logo.png
 ---
 

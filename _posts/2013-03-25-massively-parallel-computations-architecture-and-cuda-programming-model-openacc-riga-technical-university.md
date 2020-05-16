@@ -7,6 +7,8 @@ tags:
   - CUDA
 dates:
 - 2013-04-25
+- 2013-04-26
+- 2013-04-27
 - 2013-04-28
 thumbnail_path: blog/2013-03-25-massively-parallel-computations-architecture-and-cuda-programming-model-openacc-riga-technical-university/university_logo.png
 ---

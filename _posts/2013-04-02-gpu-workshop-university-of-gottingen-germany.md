@@ -7,6 +7,7 @@ tags:
   - CUDA
 dates:
 - 2013-04-02
+- 2013-04-03
 thumbnail_path: blog/2013-04-02-gpu-workshop-university-of-gottingen-germany/university_logo.png
 ---
 

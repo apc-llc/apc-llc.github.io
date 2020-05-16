@@ -7,6 +7,7 @@ tags:
   - CUDA
 dates:
 - 2013-04-16
+- 2013-04-17
 - 2013-04-18
 thumbnail_path: blog/2013-04-16-gpu-workshop-university-of-munich-germany/tum_logo.gif
 ---

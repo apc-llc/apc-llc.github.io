@@ -7,6 +7,8 @@ tags:
   - CUDA
 dates:
 - 2013-02-26
+- 2013-02-27
+- 2013-02-28
 thumbnail_path: blog/2013-02-26-cuda-programming-for-hpc-opengl-jcuda-al-farabi-kazakh-national-university-alma-ata/university_logo.jpg
 ---
 

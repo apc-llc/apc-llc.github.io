@@ -7,6 +7,7 @@ tags:
   - CUDA
 dates:
 - 2012-07-11
+- 2012-07-12
 thumbnail_path: blog/2012-07-11-gpu-programming-introduction-openacc-training-course-max-planck-institute-for-solar-system-research-katlenburg-lindau-germany/mps_logo.png
 ---
 

@@ -7,6 +7,9 @@ tags:
   - CUDA
 dates:
 - 2012-06-18
+- 2012-06-19
+- 2012-06-20
+- 2012-06-21
 thumbnail_path: blog/2012-06-18-4-day-cuda-and-openacc-course-for-financial-corporation-otkritie-moscow/client_logo.jpg
 ---
 

@@ -5,6 +5,8 @@ tags:
 - Software Engineering
 - Trainings
 - CUDA
+dates:
+- 2012-04-17
 thumbnail_path: blog/2012-04-17-openacc-and-pgi-accelerator-course-milan-italy/client_logo.jpg
 ---
 

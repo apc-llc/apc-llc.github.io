@@ -6,7 +6,7 @@ tags:
   - Trainings
   - CUDA
 dates:
-- 2011-10-13
+  - 2011-10-13
 thumbnail_path: blog/2011-10-13-cuda-40-course-hpc-day-kiev-kiev-polytechnical-institute/NTUU_KPI_logo.png
 ---
 

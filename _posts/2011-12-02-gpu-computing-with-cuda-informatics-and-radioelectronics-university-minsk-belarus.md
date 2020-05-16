@@ -5,6 +5,8 @@ tags:
 - Software Engineering
 - Trainings
 - CUDA
+dates:
+- 2011-12-02
 thumbnail_path: blog/2011-12-02-gpu-computing-with-cuda-informatics-and-radioelectronics-university-minsk-belarus/university_logo.jpg
 ---
 
