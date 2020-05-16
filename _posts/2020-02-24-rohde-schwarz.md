@@ -5,6 +5,7 @@ tags:
 - Software Engineering
 - Trainings
 - CUDA
+- MPI
 thumbnail_path: blog/2020-02-24-rohde-schwarz/client_logo.png
 dates:
 - 2020-02-24

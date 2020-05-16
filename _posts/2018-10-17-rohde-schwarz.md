@@ -5,6 +5,7 @@ tags:
 - Software Engineering
 - Trainings
 - CUDA
+- MPI
 dates:
 - 2018-10-17
 - 2018-10-19

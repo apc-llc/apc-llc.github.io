@@ -7,6 +7,8 @@ tags:
 - CUDA
 dates:
 - 2015-09-29
+- 2015-09-30
+- 2015-10-01
 - 2015-10-02
 thumbnail_path: blog/2015-10-07-4-day-cuda-course-at-airbus-defence-and-space/airbus.jpg
 ---

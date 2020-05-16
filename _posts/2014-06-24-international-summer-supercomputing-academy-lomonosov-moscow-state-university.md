@@ -5,9 +5,10 @@ tags:
 - Software Engineering
 - Trainings
 - CUDA
+- OpenACC
 dates:
 - 2014-06-24
-thumbnail_path:    \blog\2013-06-24-international-summer-supercomputing-academy-lomonosov-moscow-state-university\msu_logo.png
+thumbnail_path: \blog\2013-06-24-international-summer-supercomputing-academy-lomonosov-moscow-state-university\msu_logo.png
 ---
 
 Applied Parallel Computing LLC has delivered the NVIDIA Workshop at the at the Lomonosov Moscow State University, Moscow.

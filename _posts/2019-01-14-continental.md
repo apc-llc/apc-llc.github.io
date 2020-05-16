@@ -5,8 +5,12 @@ tags:
 - Software Engineering
 - Trainings
 - CUDA
+- OpenACC
+- OpenCL
 dates:
 - 2019-01-14
+- 2019-01-15
+- 2019-01-16
 - 2019-01-17
 thumbnail_path: blog/2019-01-14-continental/client_logo.png
 ---

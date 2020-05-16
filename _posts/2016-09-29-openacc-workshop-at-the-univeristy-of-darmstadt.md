@@ -4,7 +4,7 @@ title: "2-day OpenACC Course at the University of Darmstadt"
 tags:
 - Software Engineering
 - Trainings
-- CUDA
+- OpenACC
 dates:
 - 2016-09-28
 - 2016-09-29

@@ -4,8 +4,6 @@ title: "How to get infinite loops to work in CUDA"
 tags:
   - CUDA
   - Software Engineering
-dates:
-- 2018-06-12
 thumbnail_path: blog/2018-06-12-how-to-get-infinite-loops-to-work-in-cuda/infinite-loop.png
 ---
 

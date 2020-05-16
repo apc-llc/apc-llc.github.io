@@ -4,7 +4,11 @@ title: "3-day Course on Neural Networks at CS Club Kazan"
 tags:
   - Software Engineering
   - Trainings
-  - CUDA
+  - Neural Networks
+dates:
+  - 2018-03-14
+  - 2018-03-15
+  - 2018-03-16
 thumbnail_path: blog/2018-03-14-csclub-kazan/client_logo.png
 ---
 

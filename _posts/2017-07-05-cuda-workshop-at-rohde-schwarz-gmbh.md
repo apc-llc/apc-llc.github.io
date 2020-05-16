@@ -8,6 +8,7 @@ tags:
 - MPI
 dates:
 - 2017-07-03
+- 2017-07-04
 - 2017-07-05
 thumbnail_path: blog/2017-07-05-cuda-workshop-at-rohde-schwarz-gmbh/Rohde_Schwarz_Logo.png
 ---
