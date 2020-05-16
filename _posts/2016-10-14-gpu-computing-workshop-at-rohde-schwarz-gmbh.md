@@ -11,7 +11,7 @@ dates:
 thumbnail_path: blog/2016-10-14-gpu-computing-workshop-at-rohde-schwarz-gmbh/Rohde_Schwarz_Logo.png
 ---
 
-Applied Parallel Computing LLC delivered the 2-day GPU Computing Workshop at Rohde & Schwarz GmbH, Munich, Germany.
+Applied Parallel Computing LLC has delivered the 2-day GPU Computing Workshop at Rohde & Schwarz GmbH, Munich, Germany.
 
 ![alt text](\assets\img\blog\2016-10-14-gpu-computing-workshop-at-rohde-schwarz-gmbh\Rohde_Schwarz_Logo.png "Logo Title Text 1")
 

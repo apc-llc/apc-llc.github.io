@@ -11,7 +11,7 @@ dates:
 thumbnail_path: blog/2015-10-07-4-day-cuda-course-at-airbus-defence-and-space/airbus.jpg
 ---
 
-Applied Parallel Computing LLC delivered the 4-day CUDA Course at Airbus Defence and Space, Ulm, Germany.
+Applied Parallel Computing LLC has delivered the 4-day CUDA Course at Airbus Defence and Space, Ulm, Germany.
 
 ![alt text](\assets\img\blog\2015-10-07-4-day-cuda-course-at-airbus-defence-and-space\airbus.jpg "Logo Title Text 1")
 

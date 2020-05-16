@@ -11,7 +11,7 @@ dates:
 thumbnail_path: blog/2017-05-04-openacc-workshop-at-the-university-of-hamburg/university_logo.jpg
 ---
 
-Applied Parallel Computing LLC delivered 2-day OpenACC training course at Universität Hamburg, Germany.
+Applied Parallel Computing LLC has delivered 2-day OpenACC training course at Universität Hamburg, Germany.
 
 ![alt text](\assets\img\blog\2017-05-04-openacc-workshop-at-the-university-of-hamburg\Hamburg_02.jpg "Logo Title Text 1")
 

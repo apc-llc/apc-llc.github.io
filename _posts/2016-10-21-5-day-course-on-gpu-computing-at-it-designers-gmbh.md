@@ -12,7 +12,7 @@ dates:
 thumbnail_path: blog/2016-10-21-5-day-course-on-gpu-computing-at-it-designers-gmbh/IT_Designers_2.jpg
 ---
 
-Applied Parallel Computing LLC delivered the 5-day Course on GPU Computing at IT-Designers GmbH, Esslingen, Germany.
+Applied Parallel Computing LLC has delivered the 5-day Course on GPU Computing at IT-Designers GmbH, Esslingen, Germany.
 
 ![alt text](\assets\img\blog\2016-10-21-5-day-course-on-gpu-computing-at-it-designers-gmbh/IT_Designers_2.jpg "Logo Title Text 1")
 

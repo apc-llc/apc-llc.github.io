@@ -11,7 +11,7 @@ dates:
 thumbnail_path: blog/2015-10-07-openacc-workshop-at-tu-dortmund/photo.jpg
 ---
 
-Applied Parallel Computing LLC delivered the OpenACC Workshop at the Technical University of Dortmund, Germany. The workshop has been kindly supported by NVIDIA and SMB GmbH.
+Applied Parallel Computing LLC has delivered the OpenACC Workshop at the Technical University of Dortmund, Germany. The workshop has been kindly supported by NVIDIA and SMB GmbH.
 
 ![alt text](\assets\img\blog\2015-10-07-openacc-workshop-at-tu-dortmund\photo.jpg "Logo Title Text 1")
 

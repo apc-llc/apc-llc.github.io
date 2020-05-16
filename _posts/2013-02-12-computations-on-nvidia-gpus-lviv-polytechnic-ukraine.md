@@ -10,7 +10,7 @@ dates:
 thumbnail_path: blog/2013-02-12-computations-on-nvidia-gpus-lviv-polytechnic-ukraine/lviv_polytech_logo.png
 ---
 
-Applied Parallel Computing LLC delivered the Computations NVIDIA GPUs at Lviv Polytechnic, Ukraine.
+Applied Parallel Computing LLC has delivered the Computations NVIDIA GPUs at Lviv Polytechnic, Ukraine.
 
 
 ![alt text](\assets\img\blog\2013-02-12-computations-on-nvidia-gpus-lviv-polytechnic-ukraine/\lviv_polytech_logo.png "Logo Title Text 1")

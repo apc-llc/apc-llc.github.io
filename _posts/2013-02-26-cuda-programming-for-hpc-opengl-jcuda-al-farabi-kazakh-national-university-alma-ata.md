@@ -10,6 +10,6 @@ dates:
 thumbnail_path: blog/2013-02-26-cuda-programming-for-hpc-opengl-jcuda-al-farabi-kazakh-national-university-alma-ata/university_logo.jpg
 ---
 
-Applied Parallel Computing LLC delivered a CUDA/JCUDA, HPC and OpenGL course at Al-Farabi Kazakh National University.
+Applied Parallel Computing LLC has delivered a CUDA/JCUDA, HPC and OpenGL course at Al-Farabi Kazakh National University.
 
 ![alt text](\assets\img\blog\2013-02-26-cuda-programming-for-hpc-opengl-jcuda-al-farabi-kazakh-national-university-alma-ata\university_logo.jpg "Logo Title Text 1")

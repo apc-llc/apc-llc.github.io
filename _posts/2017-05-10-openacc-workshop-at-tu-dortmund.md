@@ -11,7 +11,7 @@ dates:
 thumbnail_path: blog/2017-05-10-openacc-workshop-at-tu-dortmund/Dortmund_02.jpg
 ---
 
-Applied Parallel Computing LLC delivered 2-day OpenACC training course at the TU Dortmund, Germany. The workshop has been kindly supported by NVIDIA and Dell GmbH.
+Applied Parallel Computing LLC has delivered 2-day OpenACC training course at the TU Dortmund, Germany. The workshop has been kindly supported by NVIDIA and Dell GmbH.
 
 ![alt text](\assets\img\blog\2017-05-10-openacc-workshop-at-tu-dortmund\Dortmund_02.jpg "Logo Title Text 1")
 

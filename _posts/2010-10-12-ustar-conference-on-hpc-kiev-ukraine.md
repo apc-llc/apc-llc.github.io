@@ -10,6 +10,6 @@ dates:
 thumbnail_path: blog/2010-10-12-ustar-conference-on-hpc-kiev-ukraine/ustar.jpg
 ---
 
-Applied Parallel Computing LLC delivered USTAR conference on HPC, Kiev, Ukraine.
+Applied Parallel Computing LLC has delivered USTAR conference on HPC, Kiev, Ukraine.
 
 ![alt text](\assets\img\blog\2010-10-12-ustar-conference-on-hpc-kiev-ukraine/ustar.jpg "Logo Title Text 1")

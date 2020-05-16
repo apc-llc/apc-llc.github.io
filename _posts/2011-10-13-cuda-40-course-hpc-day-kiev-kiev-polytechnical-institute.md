@@ -10,7 +10,7 @@ dates:
 thumbnail_path: blog/2011-10-13-cuda-40-course-hpc-day-kiev-kiev-polytechnical-institute/NTUU_KPI_logo.png
 ---
 
-Applied Parallel Computing LLC delivered the CUDA Course at Kiev Polytechnical Institute, Ukraine.
+Applied Parallel Computing LLC has delivered the CUDA Course at Kiev Polytechnical Institute, Ukraine.
 
 ![alt text](\assets\img\blog\2011-10-13-cuda-40-course-hpc-day-kiev-kiev-polytechnical-institute/NTUU_KPI_logo.png "Logo Title Text 1")
 

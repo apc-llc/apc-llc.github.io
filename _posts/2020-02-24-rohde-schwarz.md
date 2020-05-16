@@ -12,7 +12,7 @@ dates:
 - 2020-02-26
 ---
 
-Applied Parallel Computing LLC delivered the 3-day CUDA Workshop at Rohde & Schwarz GmbH, Munich, Germany. The program also covered the basics of Message Passing Interface (MPI) and CUDA-MPI interoperation.
+Applied Parallel Computing LLC has delivered the 3-day CUDA Workshop at Rohde & Schwarz GmbH, Munich, Germany. The program also covered the basics of Message Passing Interface (MPI) and CUDA-MPI interoperation.
 
 ![alt text](\assets\img\blog\2020-02-24-rohde-schwarz\client_logo.png "Logo Title Text 1")
 

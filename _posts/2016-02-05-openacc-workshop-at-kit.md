@@ -11,7 +11,7 @@ dates:
 thumbnail_path: blog/2016-02-05-openacc-workshop-at-kit/WP_20160128_004.jpg
 ---
 
-Applied Parallel Computing LLC delivered 2-day OpenACC Course at the Karlsruhe Institute of Technology, Germany. The workshop has been kindly supported by NVIDIA, Dell and SMB GmbH.
+Applied Parallel Computing LLC has delivered 2-day OpenACC Course at the Karlsruhe Institute of Technology, Germany. The workshop has been kindly supported by NVIDIA, Dell and SMB GmbH.
 
 ![alt text](\assets\img\blog\2016-02-05-openacc-workshop-at-kit\WP_20160128_004.jpg "Logo Title Text 1")
 

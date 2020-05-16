@@ -11,7 +11,7 @@ dates:
 thumbnail_path: blog/2013-03-25-massively-parallel-computations-architecture-and-cuda-programming-model-openacc-riga-technical-university/university_logo.png
 ---
 
-Applied Parallel Computing LLC delivered Training (Massively parallel computations, architecture and CUDA programming model + OpenACC) at Riga Technical University, Latvia.
+Applied Parallel Computing LLC has delivered Training (Massively parallel computations, architecture and CUDA programming model + OpenACC) at Riga Technical University, Latvia.
 
 ![alt text](\assets\img\blog\2013-03-25-massively-parallel-computations-architecture-and-cuda-programming-model-openacc-riga-technical-university/university_logo.png "Logo Title Text 1")
 

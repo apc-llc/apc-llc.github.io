@@ -10,7 +10,7 @@ dates:
 thumbnail_path: blog/2014-06-02-high-performance-computing-on-graphics-processing-units-perm-state-university-russia/psu_logo.png
 ---
 
-Applied Parallel Computing LLC delivered a GPU computing training at the "High Performance Computing on GPUs" conference, Perm State University, Russia
+Applied Parallel Computing LLC has delivered a GPU computing training at the "High Performance Computing on GPUs" conference, Perm State University, Russia
 
 Nothing found related to this post in the assets\img\blog directory
 

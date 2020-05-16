@@ -10,7 +10,7 @@ dates:
 thumbnail_path: blog/2013-10-07-gpu-workshop-university-of-hamburg-germany/university_logo.jpg
 ---
 
-Applied Parallel Computing LLC delivered the CUDA training at University of Hamburg, Germany.
+Applied Parallel Computing LLC has delivered the CUDA training at University of Hamburg, Germany.
 
 Nothing found related to this post in the assets\img\blog directory
 

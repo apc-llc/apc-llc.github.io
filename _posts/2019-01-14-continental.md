@@ -11,7 +11,7 @@ dates:
 thumbnail_path: blog/2019-01-14-continental/client_logo.png
 ---
 
-Applied Parallel Computing LLC delivered 4-day Course on GPU Computing at Continental Corporation, Germany.
+Applied Parallel Computing LLC has delivered 4-day Course on GPU Computing at Continental Corporation, Germany.
 
 ![alt text](\assets\img\blog\2019-01-14-continental\IMG_20190212_135108_HDR.jpg "Logo Title Text 1")
 

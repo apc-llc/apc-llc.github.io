@@ -11,6 +11,6 @@ thumbnail_path: blog/2013-06-10-cuda-workshop-istanbul-technical-university-turk
 
 ---
 
-Applied Parallel Computing LLC delivered CUDA Workshop at Istanbul Technical University, Turkey.
+Applied Parallel Computing LLC has delivered CUDA Workshop at Istanbul Technical University, Turkey.
 
 ![alt text](\assets\img\blog\2013-06-10-cuda-workshop-istanbul-technical-university-turkey\university_logo.png "Logo Title Text 1")

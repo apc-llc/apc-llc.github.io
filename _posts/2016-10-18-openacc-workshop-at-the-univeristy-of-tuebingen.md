@@ -11,7 +11,7 @@ dates:
 thumbnail_path: blog/2016-10-18-openacc-workshop-at-the-univeristy-of-tuebingen/utuebingen_logo.png
 ---
 
-Applied Parallel Computing LLC delivered the OpenACC Workshop at the University of Tuebingen, Germany. The workshop has been kindly supported by NVIDIA and MEGWARE.
+Applied Parallel Computing LLC has delivered the OpenACC Workshop at the University of Tuebingen, Germany. The workshop has been kindly supported by NVIDIA and MEGWARE.
 
 ![alt text](\assets\img\blog\2016-10-18-openacc-workshop-at-the-univeristy-of-tuebingen/utuebingen_logo.png "Logo Title Text 1")
 
