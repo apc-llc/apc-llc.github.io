@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CUDA Training Course"
+title: "CUDA Training Course at the University of Hamburg"
 tags:
 - Software Engineering
 - Trainings
