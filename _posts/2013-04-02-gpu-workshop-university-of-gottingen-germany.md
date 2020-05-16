@@ -7,11 +7,9 @@ tags:
   - CUDA
 dates:
 - 2013-04-02
-thumbnail_path: blog/
+thumbnail_path: blog/2013-04-02-gpu-workshop-university-of-gottingen-germany/university_logo.png
 ---
 
 Applied Parallel Computing LLC delivered GPU Workshop at the University of Gottingen, Germany.
 
-Nothing found related to this post in the assets\img\blog directory
-
-![alt text](\assets\img\blog\"Logo Title Text 1")
+![alt text](\assets\img\blog\2013-04-02-gpu-workshop-university-of-gottingen-germany\university_logo.png "Logo Title Text 1")
