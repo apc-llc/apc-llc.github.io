@@ -28,6 +28,7 @@
 
 
 $left: 15%;
+$right: 45%;
 
 .hint, [data-hint] {
   position: relative;
@@ -122,10 +123,10 @@ $left: 15%;
 .hint--bottom:before {
   margin-top: -12px; }
 .hint--bottom:after {
-  margin-left: -18px; }
+  margin-right: -18px; }
 .hint--bottom:before, .hint--bottom:after {
   top: 100%;
-  left: $left; }
+  right: $right; }
 .hint--bottom:hover:after, .hint--bottom:hover:before, .hint--bottom:focus:after, .hint--bottom:focus:before {
   -webkit-transform: translateY(8px);
   -moz-transform: translateY(8px);
