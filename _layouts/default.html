@@ -7,6 +7,7 @@
   {% include head.html %}
 </head>
 <body>
+  <div class="bg-splash-gray">
   {% include nav1.html %}
   {% if page.include_header %}
     {% include header.html include_header=page.include_header %}
@@ -14,6 +15,7 @@
     {% include header.html include_header=layout.include_header %}
   {% endif %}
   {% include nav2.html %}
+  </div>
   <main class="container block p3">
     {{ content }}
   </main>
