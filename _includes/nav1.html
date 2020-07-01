@@ -1,5 +1,5 @@
 <nav class="clearfix">
-  <ul class="left list-reset m0 nav-collapse px2 py3">
+  <ul class="left list-reset m0 px2 py3">
     <li class="inline-block m0">
       <a href="{{ site.url }}" class="button button-transparent apcllc-button textlogo bold white fa-2x">Applied Parallel Computing <div style="color:#d3ecff; display: inline-block;";>LLC</div></a>
     </li>
@@ -14,7 +14,7 @@
         {% for external_url_hash in site.contact_urls %}
           {% assign external_url = external_url_hash[1] %}
           <a href="{{ external_url.url }}" target="_blank" class="white hint--bottom" data-hint="{{ external_url.label }}">
-            <i class="fa fa-fw fa-2x fa-lg fa-{{ external_url.icon }}"></i>
+            <i class="fa fa-fw2 fa-2x fa-lg fa-{{ external_url.icon }}"></i>
           </a>
         {% endfor %}
       </div>
