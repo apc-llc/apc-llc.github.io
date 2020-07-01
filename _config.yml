@@ -26,6 +26,15 @@ apcllc_github_url: "https://github.com/apc-llc"
 
 # URLs
 contact_urls:
+  phone:
+    url: "tel:+41789259090"
+    label: "Phone"
+    icon: "phone-square"
+  email:
+    url: "mailto:contact@parallel-computing.pro"
+    label: "Email"
+    value: "contact@parallel-computing.pro"
+    icon: "envelope-square"
   linkedin:
     url: "https://www.linkedin.com/company/applied-parallel-computing/about/?viewAsMember=true"
     label: "LinkedIn"
@@ -34,11 +43,10 @@ contact_urls:
     url: "https://github.com/apc-llc/"
     label: "GitHub"
     icon: "github-square"
-  email:
-    url: "mailto:contact@parallel-computing.pro"
-    label: "Email"
-    value: "contact@parallel-computing.pro"
-    icon: "envelope-square"
+  facebook:
+    url: "https://www.facebook.com/apc.llc"
+    label: "Facebook"
+    icon: "facebook-square"
 
 # Jekyll build settings
 paginate: 10
