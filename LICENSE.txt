@@ -1,5 +1,6 @@
 The MIT License (MIT)
 
+Copyright (c) 2020 Applied Parallel Computing LLC
 Copyright (c) 2020 Dmitry Mikushin
 Copyright (c) 2015 Yevgeniy Brikman
 
