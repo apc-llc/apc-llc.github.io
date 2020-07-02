@@ -6,6 +6,7 @@ nav:
   main:
     blog: "/blog"
     trainings: "/trainings"
+    certification: "/certification"
     talks: "/talks"
     projects: "/projects"
   blog:

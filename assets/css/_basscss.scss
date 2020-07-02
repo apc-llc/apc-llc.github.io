@@ -1131,3 +1131,18 @@ input[type=range] {
 .border-darken-4 { border-color: rgba(0,0,0,.5) }
 .muted { opacity: .5 }
 
+form {
+  line-height: 3em;
+}
+
+input[type="text"], input[type="email"], input[type="search"],
+input[type="submit"], button, textarea, select {
+  padding: 1em 1em;
+  border: 1px solid #e5e5e5;
+  border-radius: 4px;
+  margin-left: 0.5em;
+  margin-top: -4px;
+}
+
+textarea { width: 73%;  height: auto; }
+
