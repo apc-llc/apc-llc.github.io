@@ -5,6 +5,7 @@ url: "https://apc-llc.github.io"
 nav:
   main:
     blog: "/blog"
+    trainings: "/trainings"
     talks: "/talks"
     projects: "/projects"
   blog:

@@ -1,0 +1,15 @@
+---
+layout: default
+title: "Applied Parallel Computing LLC: Trainings"
+redirect_from: "/trainings"
+nav_item: trainings
+header_title: Trainings
+include_header: blog_header.html
+include_comments:
+count: true
+---
+
+{% for post in site.tags["Trainings"] %}
+  {% include post-outline.html post=post %}
+{% endfor %}
+{% include pagination.html %}
