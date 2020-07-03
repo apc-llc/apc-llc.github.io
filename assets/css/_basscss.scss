@@ -1149,32 +1149,48 @@ input[type="submit"], button, textarea, select {
 textarea { width: 73%;  height: auto; }
 
 .some-page-wrapper {
-  margin: 15px;
-  background-color: red;
+margin: 15px;
+background-color: red;
 }
 
 .row {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  width: 100%;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+width: 100%;
 }
 
 .column {
-  display: flex;
-  flex-direction: column;
-  flex-basis: 100%;
-  flex: 1;
+display: flex;
+flex-direction: column;
+flex-basis: 100%;
+flex: 1;
+text-align:center;
 }
 
 .blue-column {
-  background-color: blue;
-  height: 200px;
-  width: auto;
+background-color: blue;
+height: 200px;
+width: auto;
+padding: 0 15px;
 }
 
 .green-column {
-  background-color: green;
-  height: 200px;
-  width: auto;
+background-color: green;
+height: 200px;
+width: auto;
+padding: 0 15px;
+}
+
+@media only screen and (max-width: 767px){
+.row{
+flex-direction: column;
+}
+.blue-column, .green-column{
+	height: auto;
+    padding: 15px;
+}
+.blue-column img, .green-column img{
+	height: auto;
+}
 }
