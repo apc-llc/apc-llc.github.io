@@ -1,9 +1,18 @@
-<nav class="clearfix border-bottom border-light-gray">
-  <ul class="left list-reset m0 nav-collapse">
-    {% for nav_item in site.nav.main %}
-      <li class="inline-block m0">
-        <a href="{{ nav_item[1] }}" class="button button-transparent py2 h6 nav-button caps{% if page.nav_item == nav_item[0] %} link-color{% endif %}">{{ nav_item[0] }}</a>
-      </li>
-    {% endfor %}
-  </ul>
+<nav class="clearfix">
+  <div id="navr">
+    <div id="navl">
+      <div id="nav">
+        <ul class="menu nav nav-collapse">
+          {% for nav_item in site.nav.main %}
+          <li class="item-126 deeper parent">
+            <a href="{{ nav_item[1] }}">
+              <span class="menutitle">{{ nav_item[0] }}</span>
+              <span class="menudesc"></span>
+            </a>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
 </nav>
