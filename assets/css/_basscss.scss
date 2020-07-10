@@ -1353,3 +1353,55 @@ flex-direction: column;
     .top-nav-bar{
       float: right;
     }
+    @media only screen and (max-width: 1120px){
+      .top-main-header{
+        min-height: 73px;
+      }
+      .clogo-area{
+        justify-content: flex-start;
+      }
+      .top-nav-bar ul{
+        max-width: 416px;
+        padding: 1.4rem 0;
+      }
+    }
+    @media only screen and (max-width: 828px){
+      .top-main-header{
+        min-height: 73px;
+      }
+      .top-main-header .clogo-area, .top-main-header .top-nav-bar{
+        float:none;
+      }
+      .clogo-area{
+        justify-content: flex-start;
+      }
+      .top-nav-bar ul{
+        max-width: 416px;
+        padding: 1.4rem 0;
+      }
+      header{
+        padding: 0;
+      }
+    }
+    @media only screen and (max-width: 410px){
+      .top-main-header{
+        min-height: 73px;
+      }
+      .clogo-area img{
+        width: 50px;
+        height: 50px;
+      }
+      .clogo-area .textlogo{
+        font-size: 22px
+      }
+      .top-nav-bar ul{
+        padding: 0;
+      }
+      .top-nav-bar ul .nav-button{
+        padding-left: 0;
+      }
+      header{
+        padding: 0;
+      }
+    }
+
