@@ -1,23 +1,34 @@
-<nav class="clearfix">
-  <ul class="left list-reset m0 px2 py3">
-    <li class="inline-block m0">
-      <a href="{{ site.url }}" class="button button-transparent apcllc-button textlogo bold white fa-2x" style="line-height: 1em;">Applied Parallel Computing <div style="color:#d3ecff; display: inline-block;";>LLC</div></a>
-    </li>
-    <li class="inline-block m0">
-      <a href="tel:+41789259090" target="_blank" class="button button-transparent nav-button textlogo bold white">+41 78 925 90 90</a>
-    </li>
-    <li class="inline-block m0">
-      <a href="mailto:contact@parallel-computing.pro" target="_blank" class="button button-transparent nav-button textlogo bold white">contact@parallel-computing.pro</a>
-    </li>
-    <li class="inline-block m0">
-      <div class="button button-transparent nav-button caps" style="display: inline-block;">
-        {% for external_url_hash in site.contact_urls %}
-          {% assign external_url = external_url_hash[1] %}
-          <a href="{{ external_url.url }}" target="_blank" class="white hint--bottom" data-hint="{{ external_url.label }}">
-            <i class="fa fa-fw2 fa-2x fa-lg fa-{{ external_url.icon }}"></i>
-          </a>
-        {% endfor %}
-      </div>
-    </li>
-  </ul>
-</nav>
+<div class="top-main-header">
+  <div class="clogo-area">
+    <div>
+      <a href="{{ site.url }}">
+        <img data-src="/assets/img/profile-photos/apc_logo.png" alt="Applied Parallel Computing LLC" class=" border bg-white p1 border-light-gray circle square-100 lazyloaded" src="/assets/img/profile-photos/apc_logo.png">
+      </a>
+    </div>
+    <div class="max-w-270">
+      <a href="{{ site.url }}" class="button button-transparent apcllc-button textlogo bold white fa-2x" style="line-height: 1em;">Applied Parallel Computing <span style="color:#d3ecff; display: inline-block;" ;="">LLC</span></a>
+    </div>
+  </div>
+
+  <nav class="top-nav-bar clearfix">
+    <ul class="left list-reset m0 px2 py3">
+      <li class="inline-block m0">
+        <a href="tel:+41789259090" target="_blank" class="button button-transparent nav-button textlogo bold white">+41 78 925 90 90</a>
+      </li>
+      <li class="inline-block m0">
+        <a href="mailto:contact@parallel-computing.pro" target="_blank" class="button button-transparent nav-button textlogo bold white">contact@parallel-computing.pro</a>
+      </li>
+      <li class="inline-block m0">
+        <div class="button button-transparent nav-button caps" style="display: inline-block;">
+          {% for external_url_hash in site.contact_urls %}
+            {% assign external_url = external_url_hash[1] %}
+            <a href="{{ external_url.url }}" target="_blank" class="white hint--bottom" data-hint="{{ external_url.label }}">
+              <i class="fa fa-fw2 fa-2x fa-lg fa-{{ external_url.icon }}"></i>
+            </a>
+          {% endfor %}
+        </div>
+      </li>
+    </ul>
+  </nav>
+
+</div>
