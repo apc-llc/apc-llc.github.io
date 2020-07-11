@@ -1267,6 +1267,9 @@ flex-direction: column;
     text-decoration: none;
     text-shadow: 0 1px 0 #000;
 }
+#nav .nav > li > a:hover {
+    color: #ffffff;
+}
 #nav ul {
     margin: 0;
     padding: 10px 0 0 0;
