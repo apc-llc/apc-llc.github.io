@@ -39,13 +39,14 @@ $breakPoint: 45em;
   .nav-collapse {
     clear: both;
     float: none;
+    top: -10px;
 
     li {
       display: block;
     }
 
     a {
-      border-top: 1px solid $light-gray;
+//      border-top: 1px solid $light-gray;
       width: 100%;
     }
   }
