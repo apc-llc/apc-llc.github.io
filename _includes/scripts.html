@@ -3,15 +3,27 @@
 <script type="text/javascript" src="/assets/js/jquery.slider-0.5.0.min.js"></script>
 <script>
   $('.slider').slider({
-    bullets: true
-  });
-
-  $('.slider-fade').slider({
-    animation: 'fade'
-  });
-
-  $('.carousel').slider({
-    carousel: true
+    animation: 'fade',               // fade, horizontal-slide, vertical-slide, horizontal-push, vertical-push
+    animationSpeed: 900,             // how fast animtions are
+    timer: true,                     // true or false to have the timer
+    advanceSpeed: 8000,              // if timer is enabled, time between transitions
+    pauseOnHover: false,             // if you hover pauses the slider
+    startClockOnMouseOut: false,     // if clock should start on MouseOut
+    startClockOnMouseOutAfter: 1000, // how long after MouseOut should the timer start again
+    directionalNav: false,           // manual advancing directional navs
+    captions: true,                  // do you want captions?
+    captionAnimation: 'fade',        // fade, slideOpen, none
+    captionAnimationSpeed: 600,      // if so how quickly should they animate in
+    bullets: true,                   // true or false to activate the bullet navigation
+    bulletThumbs: true,              // thumbnails for the bullets
+    bulletThumbLocation: '',         // location from this file where thumbs will be
+    beforeSlideChange: $.noop,       // empty function
+    afterSlideChange: $.noop,        // empty function
+    afterInit: $.noop,               // when slider initialisation is done
+    touchNavigation: true,           // Turn on or off navigation on slide
+    fluid: true,                     // true or ratio (ex: 4x3) to force an aspect ratio for content slides, only works from within a fluid layout
+    centerBullets: true,             // center bullet nav with js, turn this off if you want to position the bullet nav manually
+    carousel: false                  // Show prev and next slide
   });
 </script>
 {% include disqus-scripts.html %}

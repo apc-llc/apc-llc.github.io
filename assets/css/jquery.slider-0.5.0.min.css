@@ -124,18 +124,31 @@
 
 .slider-caption {
   display: none; }
-  .slider-wrapper .slider-caption {
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    background: #000;
-    background: rgba(0, 0, 0, 0.6);
-    z-index: 1000;
-    color: #fff;
-    text-align: center;
-    padding: 7px 0;
-    font-size: 13px;
-    width: 100%; }
+
+.slider-wrapper {
+max-width: 100%!important; }
+
+.slider > img {
+width: 100%!important; }
+
+.slider-caption h3 {
+color: white;
+font-size: 13px;
+line-height: 25.59375px;
+font-family: "Merriweather", serif;
+font-weight: normal; }
+
+.slider-wrapper .slider-caption {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  background: #000;
+  background: rgba(0, 0, 0, 0.6);
+  z-index: 1000;
+  color: #fff;
+  text-align: center;
+  font-size: 13px;
+  width: 100%; }
 
 .slider-captionelement {
   display: none; }
