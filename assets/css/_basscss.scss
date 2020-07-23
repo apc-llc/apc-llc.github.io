@@ -1214,6 +1214,13 @@ flex-direction: column;
 .blue-column img, .green-column img{
 	height: auto;
 }
+header{
+padding: 12px!important;
+}
+}
+
+main{
+margin-bottom: 30px!important;
 }
 
 //
@@ -1368,6 +1375,9 @@ flex-direction: column;
       .top-nav-bar ul{
         max-width: 416px;
         padding: 1.0rem 0;
+      }
+      header{
+        padding-top: 0px!important;
       }
     }
     @media only screen and (max-width: 828px){
