@@ -36,6 +36,12 @@
   ga('create', 'UA-56309703-1', 'auto');
   ga('send', 'pageview');
 </script>
+<script>
+  ((window.gitter = {}).chat = {}).options = {
+    room: 'apc-llc/community'
+  };
+</script>
+<script src="https://sidecar.gitter.im/dist/sidecar.v1.js" async defer></script>
 {% if page.extra_scripts %}
   {% for script in page.extra_scripts %}
     <script type="text/javascript" src="{{ script }}"></script>
