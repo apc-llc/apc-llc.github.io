@@ -1422,3 +1422,7 @@ margin-bottom: 30px!important;
       }
     }
 
+// Place the chart room on top of everything
+header .slider-wrapper .slider-caption{
+z-index:100!important;
+}
