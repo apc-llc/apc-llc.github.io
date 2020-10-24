@@ -73,7 +73,7 @@
   right: 10px;
   opacity: .6;
   cursor: pointer;
-  z-index: 1001; }
+  z-index: 100; }
 
 .rotator {
   -webkit-transform: translateZ(0);
